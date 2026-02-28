@@ -1,6 +1,8 @@
+
+
 ---
 
-# 🏪 Store Management System
+#  Store Management System
 
 A Java Swing application for managing transactions, inventory, and sales logs across synchronized frames.
 
